@@ -1,0 +1,4 @@
+import time
+import vk_api
+vk = vk_api.VkApi(login = '89274583114', password = 'evashade666')
+def write_msg(user_id, s):
